@@ -1,7 +1,7 @@
 # 🧠 MindScope AI
 
 <p align="center">
-  <img src="assets/dashboard-main.png" width="100%" alt="MindScope AI Banner"/>
+  <img src="mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="MindScope AI Banner"/>
 </p>
 
 <p align="center">
@@ -34,20 +34,20 @@ The platform supports multiple trained models, interactive analytics, prediction
 
 ### 🧠 AI Prediction
 
-* Text sentiment analysis
-* TXT file upload
-* Confidence scoring
-* Risk assessment
+- Text sentiment analysis
+- TXT file upload
+- Confidence scoring
+- Risk assessment
 
 </td>
 <td width="50%">
 
 ### 📊 Analytics
 
-* Live dashboard
-* Confidence trends
-* Disorder distribution
-* Response metrics
+- Live dashboard
+- Confidence trends
+- Disorder distribution
+- Response metrics
 
 </td>
 </tr>
@@ -57,21 +57,21 @@ The platform supports multiple trained models, interactive analytics, prediction
 
 ### ⚖️ Model Comparison
 
-* XGBoost
-* Random Forest
-* Logistic Regression
-* SVM
-* LightGBM
+- XGBoost
+- Random Forest
+- Logistic Regression
+- SVM
+- LightGBM
 
 </td>
 <td width="50%">
 
 ### 📜 History
 
-* Search predictions
-* Filters
-* CSV export
-* Detailed insights
+- Search predictions
+- Filters
+- CSV export
+- Detailed insights
 
 </td>
 </tr>
@@ -84,23 +84,23 @@ The platform supports multiple trained models, interactive analytics, prediction
 The landing dashboard gives an instant overview of prediction status, confidence score, wellness metrics, probability distribution, and emotional breakdown.
 
 <p align="center">
-<img src="assets/dashboard-main.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="Dashboard">
 </p>
 
 ### Dashboard Highlights
 
-* Prediction Card
-* Confidence Score
-* Risk Indicator
-* Accuracy Metrics
-* Wellness Score
+- Prediction Card
+- Confidence Score
+- Risk Indicator
+- Accuracy Metrics
+- Wellness Score
 
 ---
 
 ## Probability Distribution & Emotion Breakdown
 
 <p align="center">
-<img src="assets/dashboard-scroll-1.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/dashboard-scroll-1.png" width="100%" alt="Probability Distribution">
 </p>
 
 ---
@@ -108,7 +108,7 @@ The landing dashboard gives an instant overview of prediction status, confidence
 ## Analytics Explorer
 
 <p align="center">
-<img src="assets/dashboard-scroll-2.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/dashboard-scroll-2.png" width="100%" alt="Analytics Explorer">
 </p>
 
 ---
@@ -118,15 +118,15 @@ The landing dashboard gives an instant overview of prediction status, confidence
 Users can enter text manually or upload a `.txt` document for sentiment analysis.
 
 <p align="center">
-<img src="assets/predict-page.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/predict-page.png" width="100%" alt="Prediction Page">
 </p>
 
 ### Supported Input
 
-* Manual Text
-* TXT Upload
-* Drag & Drop
-* Model Selection
+- Manual Text
+- TXT Upload
+- Drag & Drop
+- Model Selection
 
 ---
 
@@ -135,23 +135,23 @@ Users can enter text manually or upload a `.txt` document for sentiment analysis
 The analytics page provides a complete overview of prediction performance.
 
 <p align="center">
-<img src="assets/analytics-top.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/analytics-top.png" width="100%" alt="Analytics Dashboard">
 </p>
 
 ### Live Metrics
 
-* Total Predictions
-* Today's Predictions
-* Average Confidence
-* Response Time
-* Best Performing Model
+- Total Predictions
+- Today's Predictions
+- Average Confidence
+- Response Time
+- Best Performing Model
 
 ---
 
 ## Prediction Timeline & AI Health
 
 <p align="center">
-<img src="assets/analytics-middle.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/analytics-middle.png" width="100%" alt="Prediction Timeline">
 </p>
 
 ---
@@ -159,7 +159,7 @@ The analytics page provides a complete overview of prediction performance.
 ## Confidence Distribution & Model Usage
 
 <p align="center">
-<img src="assets/analytics-bottom.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/analytics-bottom.png" width="100%" alt="Confidence Distribution">
 </p>
 
 ---
@@ -169,18 +169,18 @@ The analytics page provides a complete overview of prediction performance.
 Run the same input across every trained model and compare their outputs.
 
 <p align="center">
-<img src="assets/compare-models.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/compare-models.png" width="100%" alt="Compare Models">
 </p>
 
 ### Supported Models
 
-| Model               | Purpose            |
-| ------------------- | ------------------ |
-| XGBoost             | Primary classifier |
-| Random Forest       | Ensemble model     |
-| Logistic Regression | Baseline model     |
-| SVM                 | Margin classifier  |
-| LightGBM            | Gradient boosting  |
+| Model | Purpose |
+|-------|---------|
+| XGBoost | Primary classifier |
+| Random Forest | Ensemble model |
+| Logistic Regression | Baseline model |
+| SVM | Margin classifier |
+| LightGBM | Gradient boosting |
 
 ---
 
@@ -189,7 +189,7 @@ Run the same input across every trained model and compare their outputs.
 Every prediction is automatically stored with timestamps, confidence scores, filters, and export functionality.
 
 <p align="center">
-<img src="assets/history-top.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/history-top.png" width="100%" alt="Prediction History">
 </p>
 
 ---
@@ -197,17 +197,17 @@ Every prediction is automatically stored with timestamps, confidence scores, fil
 ## Search, Filter & Export
 
 <p align="center">
-<img src="assets/history-table.png" width="100%">
+  <img src="mental-health-ai/frontend/src/assets/history-table.png" width="100%" alt="History Table">
 </p>
 
 ### History Features
 
-* Search
-* Date Filter
-* Model Filter
-* Emotion Filter
-* CSV Export
-* Delete Records
+- Search
+- Date Filter
+- Model Filter
+- Emotion Filter
+- CSV Export
+- Delete Records
 
 ---
 
@@ -216,62 +216,57 @@ Every prediction is automatically stored with timestamps, confidence scores, fil
 Each prediction opens a detailed modal with additional insights.
 
 <p align="center">
-<img src="assets/prediction-detail-1.png" width="49%">
-<img src="assets/prediction-detail-2.png" width="49%">
+  <img src="mental-health-ai/frontend/src/assets/prediction-detail-1.png" width="49%" alt="Prediction Detail 1">
+  <img src="mental-health-ai/frontend/src/assets/prediction-detail-2.png" width="49%" alt="Prediction Detail 2">
 </p>
 
 ### Includes
 
-* Input Text
-* Prediction Result
-* Confidence
-* Model Used
-* Timestamp
-* AI Recommendation
+- Input Text
+- Prediction Result
+- Confidence
+- Model Used
+- Timestamp
+- AI Recommendation
 
 ---
 
 # 🏗 Architecture
 
 <p align="center">
-<img src="assets/architecture.png" width="90%">
+  <img src="mental-health-ai/frontend/src/assets/architecture.png" width="90%" alt="Architecture Diagram">
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-| Layer    | Technology   |
-| -------- | ------------ |
+| Layer | Technology |
+|--------|------------|
 | Frontend | React + Vite |
-| Styling  | Tailwind CSS |
-| Backend  | FastAPI      |
-| Database | MongoDB      |
-| ML       | Scikit-learn |
-| Charts   | ApexCharts   |
-| Icons    | React Icons  |
+| Styling | Tailwind CSS |
+| Backend | FastAPI |
+| Database | MongoDB |
+| ML | Scikit-learn |
+| Charts | ApexCharts |
+| Icons | React Icons |
 
 ---
 
 # 📂 Project Structure
 
 ```text
-MindScope-AI
+mind-scope-ai
 │
-├── frontend
-│   ├── React
-│   ├── Tailwind
-│   └── Components
+├── mental-health-ai
+│   ├── frontend
+│   │   ├── public
+│   │   └── src
+│   │       └── assets
+│   └── backend
 │
-├── backend
-│   ├── FastAPI
-│   ├── Prediction API
-│   ├── Analytics API
-│   ├── Model Loader
-│   └── Logging Service
-│
-├── models
-├── data
+├── models trained
+├── .gitattributes
 └── README.md
 ```
 
@@ -289,7 +284,7 @@ cd mind-scope-ai
 ## Frontend
 
 ```bash
-cd frontend
+cd mental-health-ai/frontend
 npm install
 npm run dev
 ```
@@ -297,7 +292,7 @@ npm run dev
 ## Backend
 
 ```bash
-cd backend
+cd mental-health-ai/backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
@@ -306,14 +301,14 @@ uvicorn main:app --reload
 
 # 📊 Project Highlights
 
-* Full-Stack AI Platform
-* Real-Time Analytics
-* Multi-Model Benchmarking
-* Modern Dark UI
-* Interactive Charts
-* Prediction History
-* CSV Export
-* FastAPI + React Architecture
+- Full-Stack AI Platform
+- Real-Time Analytics
+- Multi-Model Benchmarking
+- Modern Dark UI
+- Interactive Charts
+- Prediction History
+- CSV Export
+- FastAPI + React Architecture
 
 ---
 
