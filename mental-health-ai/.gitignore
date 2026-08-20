@@ -1,29 +1,21 @@
-# Virtual environments
 venv/
 .venv/
 **/venv/
 **/.venv/
 
-# Python
 __pycache__/
 *.pyc
 
-# Node
 node_modules/
 dist/
 build/
 
-# IDE
 .vscode/
 .idea/
 
-# Logs
+.env
 *.log
 
-# Environment
-.env
-
-# ML models
 *.pkl
 *.joblib
 *.h5
