@@ -1,7 +1,7 @@
 # 🧠 MindScope AI
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="MindScope AI Banner"/>
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="MindScope AI Banner"/>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ The platform supports multiple trained models, interactive analytics, prediction
 The landing dashboard gives an instant overview of prediction status, confidence score, wellness metrics, probability distribution, and emotional breakdown.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="Dashboard">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/dashboard-main.png" width="100%" alt="Dashboard">
 </p>
 
 ### Dashboard Highlights
@@ -100,7 +100,7 @@ The landing dashboard gives an instant overview of prediction status, confidence
 ## Probability Distribution & Emotion Breakdown
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/dashboard-scroll-1.png" width="100%" alt="Probability Distribution">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/dashboard-scroll-1.png" width="100%" alt="Probability Distribution">
 </p>
 
 ---
@@ -108,7 +108,7 @@ The landing dashboard gives an instant overview of prediction status, confidence
 ## Analytics Explorer
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/dashboard-scroll-2.png" width="100%" alt="Analytics Explorer">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/dashboard-scroll-2.png" width="100%" alt="Analytics Explorer">
 </p>
 
 ---
@@ -118,7 +118,7 @@ The landing dashboard gives an instant overview of prediction status, confidence
 Users can enter text manually or upload a `.txt` document for sentiment analysis.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/predict-page.png" width="100%" alt="Prediction Page">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/predict-page.png" width="100%" alt="Prediction Page">
 </p>
 
 ### Supported Input
@@ -135,7 +135,7 @@ Users can enter text manually or upload a `.txt` document for sentiment analysis
 The analytics page provides a complete overview of prediction performance.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/analytics-top.png" width="100%" alt="Analytics Dashboard">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/analytics-top.png" width="100%" alt="Analytics Dashboard">
 </p>
 
 ### Live Metrics
@@ -151,7 +151,7 @@ The analytics page provides a complete overview of prediction performance.
 ## Prediction Timeline & AI Health
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/analytics-middle.png" width="100%" alt="Prediction Timeline">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/analytics-middle.png" width="100%" alt="Prediction Timeline">
 </p>
 
 ---
@@ -159,7 +159,7 @@ The analytics page provides a complete overview of prediction performance.
 ## Confidence Distribution & Model Usage
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/analytics-bottom.png" width="100%" alt="Confidence Distribution">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/analytics-bottom.png" width="100%" alt="Confidence Distribution">
 </p>
 
 ---
@@ -169,7 +169,7 @@ The analytics page provides a complete overview of prediction performance.
 Run the same input across every trained model and compare their outputs.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/compare-models.png" width="100%" alt="Compare Models">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/compare-models.png" width="100%" alt="Compare Models">
 </p>
 
 ### Supported Models
@@ -189,7 +189,7 @@ Run the same input across every trained model and compare their outputs.
 Every prediction is automatically stored with timestamps, confidence scores, filters, and export functionality.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/history-top.png" width="100%" alt="Prediction History">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/history-top.png" width="100%" alt="Prediction History">
 </p>
 
 ---
@@ -197,7 +197,7 @@ Every prediction is automatically stored with timestamps, confidence scores, fil
 ## Search, Filter & Export
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/history-table.png" width="100%" alt="History Table">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/history-table.png" width="100%" alt="History Table">
 </p>
 
 ### History Features
@@ -216,8 +216,8 @@ Every prediction is automatically stored with timestamps, confidence scores, fil
 Each prediction opens a detailed modal with additional insights.
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/prediction-detail-1.png" width="49%" alt="Prediction Detail 1">
-  <img src="mental-health-ai/frontend/src/assets/prediction-detail-2.png" width="49%" alt="Prediction Detail 2">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/prediction-detail-1.png" width="49%" alt="Prediction Detail 1">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/prediction-detail-2.png" width="49%" alt="Prediction Detail 2">
 </p>
 
 ### Includes
@@ -234,7 +234,7 @@ Each prediction opens a detailed modal with additional insights.
 # 🏗 Architecture
 
 <p align="center">
-  <img src="mental-health-ai/frontend/src/assets/architecture.png" width="90%" alt="Architecture Diagram">
+  <img src="https://raw.githubusercontent.com/DMSVIKAS/mind-scope-ai/main/mental-health-ai/frontend/src/assets/architecture.png" width="90%" alt="Architecture Diagram">
 </p>
 
 ---
