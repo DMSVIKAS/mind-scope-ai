@@ -1,0 +1,49 @@
+/* Dashboard Layout */
+
+.dashboard {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+    background: var(--dashboard-bg);
+    transition: background 0.3s ease;
+}
+
+.dashboard.light {
+    background: white;
+}
+
+/* Right Side */
+
+.main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 0;
+}
+
+/* Page Content */
+
+.content {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    min-height: 0;
+    padding: 24px;
+}
+
+/* Optional */
+
+.page-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 1.5rem;
+}
+:root {
+    --dashboard-bg: #09090B;
+}
+
+.light {
+    --dashboard-bg: white;
+}

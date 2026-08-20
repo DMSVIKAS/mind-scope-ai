@@ -1,0 +1,152 @@
+[
+    {
+        "timestamp": "2026-07-20T13:22:01.359144",
+        "date": "2026-07-20",
+        "time": "13:22:01",
+        "model": "xgboost",
+        "type": "single",
+        "text": "im very sad today",
+        "prediction": "Normal",
+        "confidence": 0.9213
+    },
+    {
+        "timestamp": "2026-07-20T13:26:14.363995",
+        "date": "2026-07-20",
+        "time": "13:26:14",
+        "model": "random_forest",
+        "type": "single",
+        "text": "im totally sad yesterday",
+        "prediction": "Normal",
+        "confidence": 0.4005
+    },
+    {
+        "timestamp": "2026-07-20T13:26:29.676397",
+        "date": "2026-07-20",
+        "time": "13:26:29",
+        "model": "xgboost",
+        "type": "single",
+        "text": "hey sad",
+        "prediction": "Normal",
+        "confidence": 0.905
+    },
+    {
+        "timestamp": "2026-07-20T13:27:29.279051",
+        "date": "2026-07-20",
+        "time": "13:27:29",
+        "model": "xgboost",
+        "type": "single",
+        "text": "hey sad",
+        "prediction": "Normal",
+        "confidence": 0.905
+    },
+    {
+        "timestamp": "2026-07-20T20:22:31.151026",
+        "date": "2026-07-20",
+        "time": "20:22:31",
+        "model": "random_forest",
+        "type": "single",
+        "text": "im totally sad here",
+        "prediction": "Normal",
+        "response_time_ms": 95,
+        "confidence": 0.4008
+    },
+    {
+        "timestamp": "2026-07-20T23:23:47.686811",
+        "date": "2026-07-20",
+        "time": "23:23:47",
+        "model": "random_forest",
+        "type": "single",
+        "text": "im sad",
+        "prediction": "Normal",
+        "response_time_ms": 68,
+        "confidence": 0.4008
+    },
+    {
+        "timestamp": "2026-07-20T23:24:06.606538",
+        "date": "2026-07-20",
+        "time": "23:24:06",
+        "model": "logistic_regression",
+        "type": "single",
+        "text": "iam very sad",
+        "prediction": "Normal",
+        "response_time_ms": 88,
+        "confidence": 0.8646
+    },
+    {
+        "timestamp": "2026-07-20T23:24:26.317057",
+        "date": "2026-07-20",
+        "time": "23:24:26",
+        "model": "random_forest",
+        "type": "single",
+        "text": "im happy",
+        "prediction": "Normal",
+        "response_time_ms": 85,
+        "confidence": 0.3963
+    },
+    {
+        "timestamp": "2026-07-20T23:24:40.877494",
+        "date": "2026-07-20",
+        "time": "23:24:40",
+        "model": "xgboost",
+        "type": "single",
+        "text": "im happy",
+        "prediction": "Normal",
+        "response_time_ms": 81,
+        "confidence": 0.9076
+    },
+    {
+        "timestamp": "2026-07-21T00:16:07.948366",
+        "date": "2026-07-21",
+        "time": "00:16:07",
+        "model": "xgboost",
+        "type": "single",
+        "text": "hey im very sorry",
+        "prediction": "Normal",
+        "response_time_ms": 75,
+        "confidence": 0.9139
+    },
+    {
+        "timestamp": "2026-07-21T10:05:02.298948",
+        "date": "2026-07-21",
+        "time": "10:05:02",
+        "model": "svm",
+        "type": "single",
+        "text": "\"I smile because it's expected, not because I feel happy.\"",
+        "prediction": "Normal",
+        "response_time_ms": 98,
+        "confidence": 0.0
+    },
+    {
+        "timestamp": "2026-07-21T10:05:28.590893",
+        "date": "2026-07-21",
+        "time": "10:05:28",
+        "model": "logistic_regression",
+        "type": "single",
+        "text": "\"I smile because it's expected, not because I feel happy.\"",
+        "prediction": "Normal",
+        "response_time_ms": 66,
+        "confidence": 0.5399
+    },
+    {
+        "timestamp": "2026-07-21T13:45:04.186206",
+        "date": "2026-07-21",
+        "time": "13:45:04",
+        "model": "xgboost",
+        "type": "single",
+        "text": "He was depressed about having to return to school.\" ",
+        "prediction": "Depression",
+        "response_time_ms": 97,
+        "confidence": 0.673
+    },
+    {
+        "timestamp": "2026-07-21T13:46:22.371351",
+        "date": "2026-07-21",
+        "time": "13:46:22",
+        "model": "xgboost",
+        "type": "single",
+        "text": "\"The rainy weather made everyone feel a bit depressed.\" ",
+        "prediction": "Depression",
+        "response_time_ms": 68,
+        "confidence": 0.7666
+    }
+]

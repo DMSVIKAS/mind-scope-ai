@@ -1,0 +1,29 @@
+{
+    "models": [
+        {
+            "name": "XGBoost",
+            "accuracy": 97.2,
+            "color": "#8B5CF6"
+        },
+        {
+            "name": "Random Forest",
+            "accuracy": 95.8,
+            "color": "#3B82F6"
+        },
+        {
+            "name": "LightGBM",
+            "accuracy": 94.6,
+            "color": "#10B981"
+        },
+        {
+            "name": "Logistic Regression",
+            "accuracy": 91.3,
+            "color": "#F59E0B"
+        },
+        {
+            "name": "SVM",
+            "accuracy": 89.8,
+            "color": "#EF4444"
+        }
+    ]
+}
